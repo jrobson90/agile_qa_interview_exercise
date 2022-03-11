@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/agile_qa_interview_exercise.iml" filepath="$PROJECT_DIR$/.idea/agile_qa_interview_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation_example/.idea/automation_example.iml" filepath="$PROJECT_DIR$/../automation_example/.idea/automation_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dev-tools/.idea/dev-tools.iml" filepath="$PROJECT_DIR$/../dev-tools/.idea/dev-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../frameworks_demo/.idea/frameworks_demo.iml" filepath="$PROJECT_DIR$/../frameworks_demo/.idea/frameworks_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_learnings/.idea/instagram_projects.iml" filepath="$PROJECT_DIR$/../python_learnings/.idea/instagram_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jack_automation_project/.idea/jack_automation_project.iml" filepath="$PROJECT_DIR$/../jack_automation_project/.idea/jack_automation_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unit_testing_course/.idea/unit_testing_course.iml" filepath="$PROJECT_DIR$/../unit_testing_course/.idea/unit_testing_course.iml" />
     </modules>
   </component>
 </project>
